@@ -1,0 +1,289 @@
+﻿question_no,option,question,letter
+1,1,I've been romantic and imaginative.,E
+1,2,I've been pragmatic and down-to-earth.,B
+2,1,I have tended to take on confrontations.,G
+2,2,I have tended to avoid confrontations.,A
+3,1,"I have typically been diplomatic, charming and, ambitious.",C
+3,2,"I have typically been direct, formal and, idealistic",D
+4,1,I have tended to be focused and intense.,H
+4,2,I have tended to be spontaneous and fun-loving.,I
+5,1,I have been a hospitable person and have enjoyed welcoming new friends into my life.,F
+5,2,I have been a private person and have not mixed much with others.,E
+6,1,It's been difficult for me to relax and stop worrying about potential problems.,B
+6,2,It's been difficult for me to get myself worked up about potential problems.,A
+7,1,"I've been more of a ""street-smart"" survivor.",G
+7,2,"I've been more of a ""high-minded"" idealist.",D
+8,1,I have needed to show affection to people.,F
+8,2,I have preffered to maintain some distance with people,H
+9,1,"When presented with a new experience, I've usually asked myself if it would be useful to me.",C
+9,2,"When presented with a new experience, I've usually asked myself if it would be enjoyable.",I
+10,1,I have tended to focus too much on myself.,E
+10,2,I have tended to focus too much on others.,A
+11,1,Others have depended on my insight and knowledge.,H
+11,2,Others have depended on my strength and decisiveness.,G
+12,1,I have come across as being too unsure of myself.,B
+12,2,I have come across as being too sure of myself.,D
+13,1,I have been more relationship-oriented than goal-oriented.,F
+13,2,I have been more goal-oriented than relationship-oriented.,C
+14,1,I have not been able to speak up for myself very well.,E
+14,2,I have been outspoken - I've said what others wished they had the nerve to say.,I
+15,1,It's been difficult for me to stop considering alternatives and do something definite.,H
+15,2,It's been difficult for me to take it easy and be more flexible.,D
+16,1,I have tended to be careful and hesitant.,B
+16,2,I have tended to be bold and domineering.,G
+17,1,My reluctance to get too involved has gotten me into trouble with people.,A
+17,2,My eagerness to have people depend on me has gotten me into trouble with them.,F
+18,1,"Usually, I have been able to put my feelings aside to get the job done.",C
+18,2,"Usually, I have needed to work through my feelings before I could act.",E
+19,1,"Generally, I've been methodical and cautious.",B
+19,2,"Generally, I've been adventurous and taken risks.",I
+20,1,"I have tended to be a supportive, giving person who seeks intimacy with others.",F
+20,2,"I have tended to be a serious, reserved person who likes discussin issues.",D
+21,1,"I've often felt the need to be a ""pillar of strenght"".",G
+21,2,I've often felt the need to perform perfectly.,C
+22,1,I've typically been interested in asking tough questions and maintaining my independence.,H
+22,2,I've typically been interested in maintaining my stability and peace of mind.,A
+23,1,I've been a bit cynical and skeptical.,B
+23,2,I've been a bit mushy and sentimental.,F
+24,1,I've often worried that I'm missing out on something better.,I
+24,2,"I've often worried that if I let down my guard, someone will take advantage of me.",G
+25,1,"My habit of being ""stand-offish"" has annoyed people.",E
+25,2,My habit of telling people what to do has annoyed people.,D
+26,1,I have tended to get anxious if there was too much excitement and stimulation.,A
+26,2,I have tended to get anxious if there wasn't enough excitement and stimulation.,I
+27,1,I have depended on my friends and they have known that they can depend on me.,B
+27,2,I have not depended on people; I have done things on my own.,C
+28,1,I have tended to be detached and preoccupied.,H
+28,2,I have tended to be moody and self-absorbed.,E
+29,1,"I have liked to challenge people and ""shake them up"".",G
+29,2,I have liked to comfort people and calm them down.,F
+30,1,"I have generally been an outgoing, sociable person.",I
+30,2,"I have generally been an earnest, self-disciplined person.",D
+31,1,"I've wanted to ""fit in"" with others - I get uncomfortable when I stand out too much.",A
+31,2,I've wanted to stand out from others - I get uncomfortable when I don't distinguish myself.,C
+32,1,Pursuing my personal interests has been more important to me than having stability and security.,H
+32,2,Having stability and security has been more important to me than pursuing my personal interests.,B
+33,1,"When I've had conflicts with others, I've tended to withdraw.",E
+33,2,"When I've had conflicts with others, I've  rarely backed down.",G
+34,1,I have given in too easily and let others push me around.,A
+34,2,I have been too uncompromising and demanding with others.,D
+35,1,I've been appreciated for my unsinkable spirit and resourcefulness.,I
+35,2,I've been appreciated for my deep caring and personal warmth.,F
+36,1,I have wanted to make a favorable impression on others.,C
+36,2,I have cared little about making a favorable impression on others.,H
+37,1,I've depended on my perseverance and common sense.,B
+37,2,I've depended on my imagination and moments of inspiration.,E
+38,1,"Basically, I've been easy-going and agreeable.",A
+38,2,"Basically, I've been hard-driving and assertive.",G
+39,1,I have worked hard to be accepted and well-liked.,C
+39,2,Being accepted and well-liked has not been a high priority for me.,D
+40,1,"In reaction to pressure from others, I have become more withdrawn.",H
+40,2,"In reaction to pressure from others, I have become more assertive.",I
+41,1,"People have been interested in me because I've been outgoing, engaging, and interested in them.",F
+41,2,"People have been interested in me because I've been quiet, unusual, and deep.",E
+42,1,Duty and responsibility have been important values for me.,B
+42,2,Harmony and acceptance have been important values for me.,A
+43,1,I've tried to motivate people by making big plans and big promises.,G
+43,2,I've tried to motivate people by pointing out the consequences of not following my advice.,D
+44,1,I have seldom been emotionally demonstrative.,H
+44,2,I have often been emotionally demonstrative. ,F
+45,1,Dealing with the details has not been one of my strong suits.,I
+45,2,I have excelled at dealing with details.,C
+46,1,"I have often emphasized how different I am from most people, especially my family.",E
+46,2,"I have often emphasized how much I have in common with most people, especially my family.",A
+47,1,"When situations have gotten heated, I have tended to stay on the sidelines.",H
+47,2,"When situations have gotten heated, I have tended to get right into the middle of things.",G
+48,1,"I have stood by my friends, even when they have been wrong.",B
+48,2,"I have not wanted to compromise what is right, even for friendship.",D
+49,1,I've been a well-meaning supporter.,F
+49,2,I've been a highly-motivated go-getter.,C
+50,1,"When troubled, I have tended to brood about my problems.",E
+50,2,"When troubled, I have tended to find distractions for myself.",I
+51,1,"Generally, I've had strong convictions and a sense of how things should be.",D
+51,2,"Generally, I've had serious doubts and have questioned how things seemed to be.",H
+52,1,I've created problems with others by being pessimistic and complaining.,B
+52,2,I've created problems with others by being bossy and controlling.,G
+53,1,"I have tended to act on my feelings and let the ""chips fall where they may"".",F
+53,2,I have tended not to act on my feelings lest they stir up more problems. ,A
+54,1,Being the center of attention has usually felt natural to me.,C
+54,2,Being the center of attention has usually felt strange to me.,E
+55,1,I've been careful and have tried to preapre for unforeseen problems.,B
+55,2,I've been spontaneous and have preferred to improvise as problems come up.,I
+56,1,I have gotten angry when others have not shown enough appreciation for what I have done for them.,F
+56,2,I have gotten angry when others have not listened to what I have told them.,D
+57,1,Being independent and self-reliant has been important to me.,G
+57,2,Being valued and admired has been important to me.,C
+58,1,"When I've debated with friends, I've tended to press my arguments forcefully.",H
+58,2,"When I've debated with friends, I've tended to let things go to prevent hard feelings.",A
+59,1,I have often been possessive of loved ones - I've had trouble letting them be.,F
+59,2,"I have often ""tested"" loved ones to see if they were really there for me.",B
+60,1,Organizing resources and making things happen has been one of my major strengths.,G
+60,2,Coming up with new ideas and getting people excited about them has been one of my major strengths.,I
+61,1,I've tended to be driven and very hard on myself.,D
+61,2,I've tended to be too emotional and rather undisciplined. ,E
+62,1,"I have tried to keep my life fast-paced, intense, and exciting.",I
+62,2,"I have tried to keep my life regular, stable, and peaceful.",A
+63,1,"Even though I've had successes, I've tended to doubt my abilities.",B
+63,2,"Even though I've had setbacks, I've had a lot of confidence in my abilities.",C
+64,1,I generally have tended to dwell on my feelings and to hold onto them for a long time.,E
+64,2,I generally have tended to minimize my feelings and not pay very much attention to them.,H
+65,1,I have provided many people with attention and nurturance.,F
+65,2,I have provided many people with direction and motivation.,G
+66,1,I've been a bit serious and strict with myself.,D
+66,2,I've been a bit free-wheeling and permissive with myself.,I
+67,1,I've been self-assertive and driven to excel.,C
+67,2,I've been modest and have been happy to go at my own pace.,A
+68,1,I have been proud of my clarity and objectivity.,H
+68,2,I have been proud of my reliability and commitment.,B
+69,1,I have spent a lot of time looking inward - understanding my feelings has been important to me.,E
+69,2,I have not spent much time looking inward - gettings things done has been important to me.,G
+70,1,"Generally, I have thought of myself as a sunny, casual person.",A
+70,2,"Generally, I have thought of myself as a serious, dignified person.",D
+71,1,I've had an agile mind and boundless energy.,I
+71,2,I've had a caring heart and deep dedication.,F
+72,1,I have pursued activities that had a substantial potential for reward and personal recognition.,C
+72,2,I have been willing to give up reward and personal recognition if it meant doing work I was really interested in.,H
+73,1,Fulfilling social obligations has seldom been high on my agenda.,E
+73,2,I have usually taken my social obligations very seriously.,B
+74,1,"In most situations, I have preferred to take the lead.",G
+74,2,"In most situations, I have preferred to let someone else take the lead.",A
+75,1,"Over the years, my values and lifestyle have changed several times.",C
+75,2,"Over the years, my values and lifestyle have remained fairly consistent.",D
+76,1,"Typically, I have not had much self-discipline.",I
+76,2,"Typically, I have not had much connection with people.",H
+77,1,I have tended to withhold my affection and have wanted others to come into my world.,E
+77,2,I have tended to give my affection too freely and have wanted to extend myself to others.,F
+78,1,I have had a tendency to think of worst-case scenarios.,B
+78,2,I have had a tendency to think that everything will work out for the best.,A
+79,1,People have trusted me because I am confident and can look out for them.,G
+79,2,People have trusted me because I am fair and will do what is right.,D
+80,1,"Often, I have been so involved in my own projects that I have become isolated from others.",H
+80,2,"Often, I have been so involved with others that I have neglected my own projects.",F
+81,1,"When meeting someone new, I have usually been poised and self-contained.",C
+81,2,"When meeting someone new, I have usually been chatty and entertaining.",I
+82,1,"Generally speaking, I have tended to be pessimistic.",E
+82,2,"Generally speaking, I have tended to be optimistic.",A
+83,1,I have preferred to inhabit my own little world.,H
+83,2,I have preferred to let the world know I'm here.,G
+84,1,"I have often been troubled by nervousness, insecurity, and doubt.",B
+84,2,"I have often been troubled by anger, perfectionism, and impatience.",D
+85,1,I realize that I have often been too personal and intimate.,F
+85,2,I realize that I have often been too cool and aloof.,C
+86,1,I have lost out because I have not felt up to taking opportunities.,E
+86,2,I have lost out because I have pursued too many possibilities.,I
+87,1,I have tended to take a long time to get into action.,H
+87,2,I have tended to get into action quickly.,D
+88,1,I usually have had difficulty making decisions.,B
+88,2,I seldom have had difficulty making decisions.,G
+89,1,I have had a tendency to come on a little too strong with people.,F
+89,2,I have had a tendency not to assert myself enough with people.,A
+90,1,"Typically, I have been even-tempered.",C
+90,2,"Typically, I have had strong changes of mood.",E
+91,1,"When I've been unsure of what to do, I've often sought the advice of others.",B
+91,2,"When I've been unsure of what to do, I've tried different things to see what worked best for me.",I
+92,1,I have worried that I would be left out of others' activities.,F
+92,2,I have worries that others' activities would distract me from what I had to do.,D
+93,1,"Typically, when I've gotten angry, I've told people off.",G
+93,2,"Typically, when I've gotten angry, I've become distant.",C
+94,1,I've tended to have trouble falling asleep.,H
+94,2,I've tended to fall asleep easily.,A
+95,1,I have often tried to figure out how I could get closer to others.,F
+95,2,I have often tried to figure out what others want from me.,B
+96,1,"I have usually been measured, straight-talking, and deliberate.",G
+96,2,"I have usually been excitable, fast-talking, and witty.",I
+97,1,"Often, I have not spoken up when I've seen others making a mistake.",E
+97,2,"Often, I have helped others see that they are making a mistake.",D
+98,1,"During most of my life, I have been a stormy person who has had many volatile feelings.",I
+98,2,"During most of my life, I have been a steady person in whom ""still waters run deep"".",A
+99,1,"When I have disliked people, I have usually tried hard to stay cordial - despite my feelings.",C
+99,2,"When I have disliked people, I have usually let them know it - one way or another.",B
+100,1,Much of my difficulty with people has come from my touchiness and taking everything too personally.,E
+100,2,Much of my difficulty with people has come from my not caring about social conventions.,H
+101,1,My approach has been to jump in and rescue people.,F
+101,2,My approach has been to show people how to help themselves.,G
+102,1,"Generally, I have enjoyed ""letting go"" and pushing the limits.",I
+102,2,"Generally, I have not enjoyed losing control of myself very much.",D
+103,1,I've been overly concerned with doing better than others.,C
+103,2,I've been overly concerned with making things okay for others.,A
+104,1,My thoughts generally have been speculative - involving my imagination and curiosity.,H
+104,2,My thoughts generally have been pracitcal - just trying to keep things going.,B
+105,1,One of my main assets has been my ability to take charge of situations.,G
+105,2,One of my main assets has been my ability to describe internal states.,E
+106,1,"I have pushed to get things done correctly, even if it made people uncomfortable.",D
+106,2,"I have not liked feeling pressured, so I have not liked pressuring anyone else.",A
+107,1,I've often taken pride in how important I am in others' lives.,F
+107,2,I've often taken pride in my gusto and opennes to new experiences.,I
+108,1,"I have perceived that I've often come across to others as presentable, even admirable.",C
+108,2,"I have perceived that I've often come across to others as unusal, even odd.",H
+109,1,I have mostly done what I had to do.,B
+109,2,I have mostly done what I wanted to do.,E
+110,1,"I have usually enjoyed high-pressure, even difficult, situations.",G
+110,2,"I have usually disliked being in high-pressure, even difficult, situations. ",A
+111,1,I've been proud of my ability to be flexible - what's appropriate or important often changes.,C
+111,2,I've been proud of my ability to take a stand - I've been firm about what I believe in.,D
+112,1,My style has leaned toward spareness and austerity.,H
+112,2,My style has leaned toward excess and overdoing things.,I
+113,1,My own health and well-being have suffered because of my strong desire to help others.,F
+113,2,My relationships have suffered because of my strong desire to attend to my personal needs.,E
+114,1,"Generally speaking, I've been too open and naïve.",A
+114,2,"Generally speaking, I've been too wary and guarded.",B
+115,1,I have sometimes put people off by being too aggressive.,G
+115,2,"I have sometimes put people off by being too ""uptight"".",D
+116,1,Being of service and attending to the needs of others has been a high priority for me.,F
+116,2,Finding alternative ways of seeing and doing things has been a high priority for me.,H
+117,1,I've been single-minded and persistent in pursuing my goals.,C
+117,2,I've preferred to explore various courses of action to see where they lead.,I
+118,1,"I have frequently been drawn to situations that stir up deep, intense emotions.",E
+118,2,I have frequently been drawn to situations that make me feel calm and at ease.,A
+119,1,I have cared less about practical results than about pursuing my interests.,H
+119,2,I have been practical and have expected my work to have concrete results.,G
+120,1,I have had a deep need to belong.,B
+120,2,I have had a deep need to feel balanced.,D
+121,1,"In the past, I've probably insisted on too much closeness in my friendships.",F
+121,2,"In the past, I've probably kept too much distance in my friendships.",C
+122,1,I've had a tendency to keep thining about things from the past.,E
+122,2,I've had a tendency to keep anticipating things I'm going to do.,I
+123,1,I've tended to see people as intrusive and demanding.,H
+123,2,I've tended to see people as disorganized and irresponsible.,D
+124,1,"Generally, I have no had much confidence in myself.",B
+124,2,"Generally, I have had confidence only in myself.",G
+125,1,I've probably been too passive and uninvolved.,A
+125,2,I've probably been too controlling and manipulative.,F
+126,1,I've frequently been stopped in my tracks by my self doubt.,E
+126,2,I've rarely let self-doubt stand in my way.,C
+127,1,"Given a choice between something familiar and something new, I've usually chosen something new.",I
+127,2,I've generally chosen what I knew I already liked: why be disappointed with something I might not like?,B
+128,1,I have given a lot of physical contact to reassure others about how I feel about them.,F
+128,2,I have generally felt that real love does not depend on physical contact.,D
+129,1,"When I've needed to confront someone, I've often been too harsh and direct.",G
+129,2,"When I've needed to confront someone, I've often ""beaten around the bush"" too much.",C
+130,1,"I have been attracted to subjects that others would probably find disturbing, even frightening.",H
+130,2,I have preferred not to spend my time dwelling on disturbing fightening subjects.,A
+131,1,I have gotten into trouble with people by being too intrusive and interfering.,F
+131,2,I have gotten into trouble with people by being too evasive and uncommunicative.,B
+132,1,I've worried that I don't have the resources to fuliff the responsibilities I've taken on.,G
+132,2,I've worried that I don't have the self-discipline to focus on what will really fulfill me.,I
+133,1,"Generally, I've been a highly intuitive, individualistic person.",E
+133,2,"Generally, I've been a highly organized, responsible person.",D
+134,1,Overcoming inertia has been one of my main problems.,A
+134,2,Being unable to slow down has been one of my main problems.,I
+135,1,"When I've felt insecure, I've reacted by becoming arrogant and disimissive.",C
+135,2,"When I've felt insecure, I've reacted by becoming defensive and argumentative.",B
+136,1,I have generally been open-minded and willing to try new approaches.,H
+136,2,I have generally been self-revealing and willing to share my feelings with others.,E
+137,1,I've presented myself to others as tougher than I really am.,G
+137,2,I've presented myself to others as caring more than I really do.,F
+138,1,I usually have followed my conscience and reason.,D
+138,2,I usually have followed my feelings and impulses.,I
+139,1,Serious adversity has made me feel hardened and resolute.,C
+139,2,Serious adversity has made me feel discouraged and resigned.,A
+140,1,"I usually have made sure that I had some kind of ""safety net"" to fall back on.",B
+140,2,I usually have chosen to live on the edge and to depend on others as little as possible.,H
+141,1,"I've had to be strong for others, so I haven't had time to deal with my feelings and fears.",G
+141,2,"I've had difficulty coping with my feelings and fears, so it's been hard for me to be strong for others.",E
+142,1,I have often wondered why people focus on the negative when there is so much that's wonderful about life.,A
+142,2,I have often wondered why people are so happy when so much in life is messed up.,D
+143,1,I have tried hard not to be seen as a selfish person.,F
+143,2,I have tried hard not to be seen as a boring person.,I
+144,1,I have avoided intimacy when I feared I would be overwhelmed by people's needs and demands.,H
+144,2,I have avoided intimacy when I feared I would not be able to live up to people's expectations of me.,C
