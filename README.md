@@ -6,6 +6,6 @@ This is the final app:
 https://ant-onio.shinyapps.io/Enneagram/
 
 
-“THE ENNEAGRAM (pronounced “ANY-a-gram”) is a geometric figure that maps out the nine fundamental personality types of human nature and their complex interrelationships. It is a development of modern psychology that has roots in spiritual wisdom from many different ancient traditions.”
+*“THE ENNEAGRAM (pronounced “ANY-a-gram”) is a geometric figure that maps out the nine fundamental personality types of human nature and their complex interrelationships. It is a development of modern psychology that has roots in spiritual wisdom from many different ancient traditions.”*
 
-Excerpt From: Enneagram Resources Series. “The Wisdom of the Enneagram.” Apple Books. 
+*Excerpt From: Enneagram Resources Series. “The Wisdom of the Enneagram.” Apple Books. *
